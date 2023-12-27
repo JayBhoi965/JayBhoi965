@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning information Techology
 - 💞️ I’m looking to collaborate on web development, Data Analytics and DSA
-- 📫 Just Catch me on Social Media Platforms. The Links Are Given In Bio. 
+- 📫 You May Catch me on Social Media Platforms. The Links Are Given In Bio. 
 
 <!---
 JayBhoi965/JayBhoi965 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
