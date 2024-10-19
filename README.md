@@ -13,7 +13,7 @@
 
 So far I'm 18 years old aspiring developer.
 <br/>
-I can code in many programming languages,
+<h1>Languages & Skills</h1>
 <br/>
    C
    <br/>
