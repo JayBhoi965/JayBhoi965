@@ -1,12 +1,11 @@
 # Hi, there I’m Jay! 
 
-![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
 ###### 
 
 
 <br/>
 <h1>Languages & Skills</h1>
-<hr/>
 <br/>
    C
    <br/>
