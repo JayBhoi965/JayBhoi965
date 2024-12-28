@@ -1,7 +1,7 @@
 # Hi, there I’m Jay! 
-<a style="border-radius = 20px">
-![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
-</a>
+
+(https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+
 ###### 
 
 
