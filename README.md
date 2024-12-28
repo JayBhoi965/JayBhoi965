@@ -1,6 +1,6 @@
 # Hi, there I’m Jay! 
 
-(https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
 
 ###### 
 
