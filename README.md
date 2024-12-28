@@ -10,6 +10,10 @@
 <br/>
      Rust
    <br/>
+   Python
+   <br/>
+   Java
+   <br/>
      C++
   <br/>
    C
