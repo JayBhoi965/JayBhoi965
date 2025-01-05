@@ -1,7 +1,6 @@
 
 # Hi, there I’m Jay! 
 
-![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
 
 
 <h1 align="center">Languages & Skills</h1>
@@ -19,5 +18,6 @@
    C
   <br/>
    
+![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
 
         
