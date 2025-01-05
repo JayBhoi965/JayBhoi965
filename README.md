@@ -5,7 +5,7 @@
 ###### 
 
 
-<h1>Languages & Skills</h1>
+<h1 align="center">Languages & Skills</h1>
 <br/>
      Web Development : HTML, CSS, JS, React, TS, Node.js
 <br/>
