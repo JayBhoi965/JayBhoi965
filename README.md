@@ -1,8 +1,6 @@
 
 # Hey, there I’m Jay! 
 
-
-
 <h1 align="center">Languages & Skills</h1>
 <br/>
      Web Development : HTML, CSS, JS, React, TS, Node.js
