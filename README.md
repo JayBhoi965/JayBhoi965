@@ -6,7 +6,7 @@
      Web Development : HTML, CSS, JS, React, TS, Node.js
 <br/>
      Rust
-   <br/>
+   <br/> 
    Python
    <br/>
    Java
