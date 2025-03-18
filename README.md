@@ -3,7 +3,7 @@
 
 <h1 align="center">Languages & Skills</h1>
 <br/>
-     Web Development : HTML, CSS, JS, React, TS, Node.js
+     Web Development : HTML, CSS+TailwindCSS, JS, React, TS, Node.js
 <br/>
      Rust
    <br/> 
