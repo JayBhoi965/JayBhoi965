@@ -6,6 +6,7 @@
      MERN stack Developer
      
 <br/>
+Deep Learning Enthusiastic
 <br/>
        +
 <br/>
