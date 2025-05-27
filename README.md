@@ -15,6 +15,8 @@ Deep Learning Enthusiastic
    <br/> 
    Python
    <br/>
+   MATLAB
+   <br/>
    Java
    <br/>
      C++
