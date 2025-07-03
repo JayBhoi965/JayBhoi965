@@ -4,7 +4,9 @@
 <h1 align="center">Languages & Skills</h1>
 <br/>
      MERN stack Developer
-     
+ 
+<br/>
+     Java Developer
 <br/>
 Deep Learning Enthusiastic
 <br/>
@@ -16,8 +18,6 @@ Deep Learning Enthusiastic
    Python
    <br/>
    MATLAB
-   <br/>
-   Java
    <br/>
      C++
   <br/>
