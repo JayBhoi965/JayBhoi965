@@ -6,7 +6,7 @@
      MERN stack Developer
  
 <br/>
-     Java Developer
+     Advanced Java Developer
 <br/>
 Deep Learning Enthusiastic
 <br/>
