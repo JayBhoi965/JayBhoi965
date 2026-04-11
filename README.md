@@ -25,7 +25,7 @@ Deep Learning Enthusiastic
   <br/>
   <br/>
 
-> Experience : [**SafaiSaheli**](https://www.safaisaheli.com), lead WebDeveloper/Designer
+> Experience : Designed and Developed [**SafaiSaheli**](https://www.safaisaheli.com),.
 
   
   <br/>
