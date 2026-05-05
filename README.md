@@ -25,7 +25,6 @@ Deep Learning Enthusiastic
   <br/>
   <br/>
 
-> Experience : Designed and Developed [**SafaiSaheli**](https://www.safaisaheli.com),.
 
   
   <br/>
